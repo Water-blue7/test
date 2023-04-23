@@ -18,4 +18,4 @@ new分支
 
 new新增加一行
 
-new 不add 直接commit试试
+new 不add 直接commit试试，不行，必须要add，或者commit的时候添加-a参数
